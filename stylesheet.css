@@ -1,0 +1,63 @@
+.start-quiz {
+	font-size: 40px;
+	font-family: 'Righteous', cursive;
+}
+
+.start-quiz {
+	text-align: center;
+}
+
+header {
+	text-align: center;
+	-moz-box-shadow: 0 0 10px #777777;
+	-webkit-box-shadow: 0 0 10px #777777;
+	box-shadow: 0 0 10px #777777;
+	padding:1px;
+}
+
+.question {
+	text-align: center;
+}
+
+.controls {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.ready {
+	font-size: 30px;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	text-align: center;
+}
+
+.hide {
+	display: none;
+}
+
+.congrats {
+	font-size: 50;
+	text-align: center;
+}
+
+#submit {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 30px;
+	margin-top: 60px;
+}
+
+.choices {
+	list-style-type: none;
+	font-size: 25px;
+}
+
+h2 {
+	text-align: center;
+}
